@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "/queryables.json",
+  "type": "object",
+  "title": "Queryables for Earth Search by Element 84",
+  "properties": {},
+  "additionalProperties": true
+}

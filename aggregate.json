@@ -1,0 +1,15 @@
+{
+  "aggregations": [],
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/json",
+      "href": "/aggregate.json"
+    },
+    {
+      "rel": "root",
+      "type": "application/json",
+      "href": "/catalog.json"
+    }
+  ]
+}
