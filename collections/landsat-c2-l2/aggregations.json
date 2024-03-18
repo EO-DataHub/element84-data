@@ -1,78 +1,78 @@
 {
-  "aggregations": [
-    {
-      "name": "total_count",
-      "data_type": "integer"
-    },
-    {
-      "name": "datetime_max",
-      "data_type": "datetime"
-    },
-    {
-      "name": "datetime_min",
-      "data_type": "datetime"
-    },
-    {
-      "name": "datetime_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "datetime"
-    },
-    {
-      "name": "cloud_cover_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "numeric_range"
-    },
-    {
-      "name": "sun_elevation_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "numeric"
-    },
-    {
-      "name": "sun_azimuth_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "numeric"
-    },
-    {
-      "name": "off_nadir_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "numeric"
-    },
-    {
-      "name": "grid_code_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "string"
-    },
-    {
-      "name": "grid_geohex_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "string"
-    },
-    {
-      "name": "grid_geohash_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "string"
-    },
-    {
-      "name": "grid_geotile_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "string"
-    }
-  ],
-  "links": [
-    {
-      "rel": "root",
-      "type": "application/json",
-      "href": "/catalog.json"
-    },
-    {
-      "rel": "self",
-      "type": "application/json",
-      "href": "/collections/landsat-c2-l2/aggregations.json"
-    },
-    {
-      "rel": "collection",
-      "type": "application/json",
-      "href": "/collections/landsat-c2-l2.json"
-    }
-  ]
+    "aggregations": [
+        {
+            "name": "total_count",
+            "data_type": "integer"
+        },
+        {
+            "name": "datetime_max",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_min",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "datetime"
+        },
+        {
+            "name": "cloud_cover_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric_range"
+        },
+        {
+            "name": "sun_elevation_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric"
+        },
+        {
+            "name": "sun_azimuth_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric"
+        },
+        {
+            "name": "off_nadir_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric"
+        },
+        {
+            "name": "grid_code_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "string"
+        },
+        {
+            "name": "grid_geohex_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "string"
+        },
+        {
+            "name": "grid_geohash_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "string"
+        },
+        {
+            "name": "grid_geotile_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "string"
+        }
+    ],
+    "links": [
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+        },
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2/aggregations.json"
+        },
+        {
+            "rel": "collection",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2.json"
+        }
+    ]
 }

@@ -1,33 +1,33 @@
 {
-  "aggregations": [
-    {
-      "name": "total_count",
-      "data_type": "integer"
-    },
-    {
-      "name": "datetime_max",
-      "data_type": "datetime"
-    },
-    {
-      "name": "datetime_min",
-      "data_type": "datetime"
-    },
-    {
-      "name": "datetime_frequency",
-      "data_type": "frequency_distribution",
-      "frequency_distribution_data_type": "datetime"
-    }
-  ],
-  "links": [
-    {
-      "rel": "root",
-      "type": "application/json",
-      "href": "/catalog.json"
-    },
-    {
-      "rel": "self",
-      "type": "application/json",
-      "href": "/aggregations.json"
-    }
-  ]
+    "aggregations": [
+        {
+            "name": "total_count",
+            "data_type": "integer"
+        },
+        {
+            "name": "datetime_max",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_min",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "datetime"
+        }
+    ],
+    "links": [
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+        },
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/aggregations.json"
+        }
+    ]
 }

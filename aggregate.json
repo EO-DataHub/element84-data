@@ -1,15 +1,15 @@
 {
-  "aggregations": [],
-  "links": [
-    {
-      "rel": "self",
-      "type": "application/json",
-      "href": "/aggregate.json"
-    },
-    {
-      "rel": "root",
-      "type": "application/json",
-      "href": "/catalog.json"
-    }
-  ]
+    "aggregations": [],
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/aggregate.json"
+        },
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+        }
+    ]
 }

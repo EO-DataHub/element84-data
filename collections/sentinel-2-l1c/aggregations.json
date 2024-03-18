@@ -1,12 +1,58 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "/collections/sentinel-2-l1c/queryables.json",
-  "type": "object",
-  "title": "Queryables for Collection sentinel-2-l1c",
-  "properties": {
-    "eo:cloud_cover": {
-      "$ref": "https://stac-extensions.github.io/eo/v1.0.0/schema.json#/definitions/fields/properties/eo:cloud_cover"
-    }
-  },
-  "additionalProperties": true
+    "aggregations": [
+        {
+            "name": "total_count",
+            "data_type": "integer"
+        },
+        {
+            "name": "datetime_max",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_min",
+            "data_type": "datetime"
+        },
+        {
+            "name": "datetime_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "datetime"
+        },
+        {
+            "name": "cloud_cover_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric_range"
+        },
+        {
+            "name": "grid_code_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "string"
+        },
+        {
+            "name": "sun_elevation_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric"
+        },
+        {
+            "name": "sun_azimuth_frequency",
+            "data_type": "frequency_distribution",
+            "frequency_distribution_data_type": "numeric"
+        }
+    ],
+    "links": [
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+        },
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c/aggregations.json"
+        },
+        {
+            "rel": "collection",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c.json"
+        }
+    ]
 }

@@ -1,20 +1,20 @@
 {
-  "aggregations": [],
-  "links": [
-    {
-      "rel": "self",
-      "type": "application/json",
-      "href": "/collections/landsat-c2-l2/aggregate.json"
-    },
-    {
-      "rel": "root",
-      "type": "application/json",
-      "href": "/catalog.json"
-    },
-    {
-      "rel": "collection",
-      "type": "application/json",
-      "href": "/collections/landsat-c2-l2.json"
-    }
-  ]
+    "aggregations": [],
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2/aggregate.json"
+        },
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+        },
+        {
+            "rel": "collection",
+            "type": "application/json",
+            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2.json"
+        }
+    ]
 }
