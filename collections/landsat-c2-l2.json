@@ -7,7 +7,7 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "/catalogue/element84-data/collections/landsat-c2-l2.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2.json"
         },
         {
             "rel": "cite-as",
@@ -32,33 +32,33 @@
         {
             "rel": "parent",
             "type": "application/json",
-            "href": "/catalogue/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "/catalogue/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "items",
             "type": "application/geo+json",
-            "href": "https://earth-search.aws.element84.com/v1/collections/landsat-c2-l2/items"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/items.json"
         },
         {
             "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
             "type": "application/schema+json",
-            "href": "/catalogue/element84-data/collections/landsat-c2-l2/queryables.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/queryables.json"
         },
         {
             "rel": "aggregate",
             "type": "application/json",
-            "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregate.json",
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/aggregate.json",
             "method": "GET"
         },
         {
             "rel": "aggregations",
             "type": "application/json",
-            "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregations.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/aggregations.json"
         }
     ],
     "stac_extensions": [

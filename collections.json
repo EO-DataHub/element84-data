@@ -7,7 +7,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30.json"
                 },
                 {
                     "rel": "license",
@@ -17,33 +17,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/cop-dem-glo-30/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30/aggregations.json"
                 }
             ],
             "title": "Copernicus DEM GLO-30",
@@ -163,7 +163,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/naip.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip.json"
                 },
                 {
                     "rel": "license",
@@ -186,33 +186,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/naip/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/naip/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/naip/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/naip/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip/aggregations.json"
                 }
             ],
             "title": "NAIP: National Agriculture Imagery Program",
@@ -362,7 +362,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a.json"
                 },
                 {
                     "rel": "cite-as",
@@ -377,33 +377,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -1837,7 +1837,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c.json"
                 },
                 {
                     "rel": "cite-as",
@@ -1852,33 +1852,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l1c/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -2652,7 +2652,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90.json"
                 },
                 {
                     "rel": "license",
@@ -2662,33 +2662,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/cop-dem-glo-90/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90/aggregations.json"
                 }
             ],
             "title": "Copernicus DEM GLO-90",
@@ -2808,7 +2808,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/landsat-c2-l2.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2.json"
                 },
                 {
                     "rel": "cite-as",
@@ -2833,33 +2833,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/landsat-c2-l2/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -3547,7 +3547,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-1-grd.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd.json"
                 },
                 {
                     "rel": "about",
@@ -3562,33 +3562,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/sentinel-1-grd/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd/aggregations.json"
                 }
             ],
             "title": "Sentinel-1 Level 1C Ground Range Detected (GRD)",
@@ -3950,7 +3950,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a.json"
                 },
                 {
                     "rel": "cite-as",
@@ -3965,33 +3965,33 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/catalog.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
                     "type": "application/geo+json",
-                    "href": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-c1-l2a/items"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a/items.json"
                 },
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/queryables.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregate.json",
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregations.json"
+                    "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -4870,12 +4870,12 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "/catalogue/element84-data/collections.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "/catalogue/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
         }
     ],
     "context": {
