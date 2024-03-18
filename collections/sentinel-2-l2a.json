@@ -7,7 +7,7 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a.json"
+            "href": "/catalogue/element84-data/collections/sentinel-2-l2a.json"
         },
         {
             "rel": "cite-as",
@@ -22,12 +22,12 @@
         {
             "rel": "parent",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "items",
@@ -37,18 +37,18 @@
         {
             "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
             "type": "application/schema+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/queryables.json"
+            "href": "/catalogue/element84-data/collections/sentinel-2-l2a/queryables.json"
         },
         {
             "rel": "aggregate",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/aggregate.json",
+            "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregate.json",
             "method": "GET"
         },
         {
             "rel": "aggregations",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/aggregations.json"
+            "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregations.json"
         }
     ],
     "stac_extensions": [

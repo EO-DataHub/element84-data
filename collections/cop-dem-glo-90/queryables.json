@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/queryables.json",
+    "$id": "/catalogue/element84-data/collections/cop-dem-glo-90/queryables.json",
     "type": "object",
     "title": "Queryables for Collection cop-dem-glo-90",
     "properties": {},

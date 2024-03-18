@@ -7,7 +7,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-30.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30.json"
                 },
                 {
                     "rel": "license",
@@ -17,12 +17,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -32,18 +32,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-30/queryables.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-30/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-30/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-30/aggregations.json"
                 }
             ],
             "title": "Copernicus DEM GLO-30",
@@ -163,7 +163,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip.json"
+                    "href": "/catalogue/element84-data/collections/naip.json"
                 },
                 {
                     "rel": "license",
@@ -186,12 +186,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -201,18 +201,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip/queryables.json"
+                    "href": "/catalogue/element84-data/collections/naip/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/naip/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/naip/aggregations.json"
                 }
             ],
             "title": "NAIP: National Agriculture Imagery Program",
@@ -362,7 +362,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a.json"
                 },
                 {
                     "rel": "cite-as",
@@ -377,12 +377,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -392,18 +392,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/queryables.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l2a/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -1837,7 +1837,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c.json"
                 },
                 {
                     "rel": "cite-as",
@@ -1852,12 +1852,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -1867,18 +1867,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c/queryables.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-l1c/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -2652,7 +2652,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90.json"
                 },
                 {
                     "rel": "license",
@@ -2662,12 +2662,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -2677,18 +2677,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/queryables.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregations.json"
                 }
             ],
             "title": "Copernicus DEM GLO-90",
@@ -2808,7 +2808,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2.json"
+                    "href": "/catalogue/element84-data/collections/landsat-c2-l2.json"
                 },
                 {
                     "rel": "cite-as",
@@ -2833,12 +2833,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -2848,18 +2848,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2/queryables.json"
+                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/landsat-c2-l2/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -3547,7 +3547,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-1-grd.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-1-grd.json"
                 },
                 {
                     "rel": "about",
@@ -3562,12 +3562,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -3577,18 +3577,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-1-grd/queryables.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-1-grd/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-1-grd/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-1-grd/aggregations.json"
                 }
             ],
             "title": "Sentinel-1 Level 1C Ground Range Detected (GRD)",
@@ -3950,7 +3950,7 @@
                 {
                     "rel": "self",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-c1-l2a.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a.json"
                 },
                 {
                     "rel": "cite-as",
@@ -3965,12 +3965,12 @@
                 {
                     "rel": "parent",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "root",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+                    "href": "/catalogue/element84-data/catalog.json"
                 },
                 {
                     "rel": "items",
@@ -3980,18 +3980,18 @@
                 {
                     "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
                     "type": "application/schema+json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-c1-l2a/queryables.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/queryables.json"
                 },
                 {
                     "rel": "aggregate",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-c1-l2a/aggregate.json",
+                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregate.json",
                     "method": "GET"
                 },
                 {
                     "rel": "aggregations",
                     "type": "application/json",
-                    "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-c1-l2a/aggregations.json"
+                    "href": "/catalogue/element84-data/collections/sentinel-2-c1-l2a/aggregations.json"
                 }
             ],
             "stac_extensions": [
@@ -4870,12 +4870,12 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections.json"
+            "href": "/catalogue/element84-data/collections.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         }
     ],
     "context": {

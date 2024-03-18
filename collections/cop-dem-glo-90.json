@@ -5,7 +5,7 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90.json"
+            "href": "/catalogue/element84-data/collections/cop-dem-glo-90.json"
         },
         {
             "rel": "license",
@@ -15,12 +15,12 @@
         {
             "rel": "parent",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "items",
@@ -30,18 +30,18 @@
         {
             "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
             "type": "application/schema+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/queryables.json"
+            "href": "/catalogue/element84-data/collections/cop-dem-glo-90/queryables.json"
         },
         {
             "rel": "aggregate",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/aggregate.json",
+            "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregate.json",
             "method": "GET"
         },
         {
             "rel": "aggregations",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90/aggregations.json"
+            "href": "/catalogue/element84-data/collections/cop-dem-glo-90/aggregations.json"
         }
     ],
     "title": "Copernicus DEM GLO-90",

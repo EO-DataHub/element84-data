@@ -4,12 +4,12 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/aggregate.json"
+            "href": "/catalogue/element84-data/aggregate.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         }
     ]
 }

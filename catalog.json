@@ -8,60 +8,60 @@
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "conformance",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/conformance.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/conformance.json"
         },
         {
             "rel": "data",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections.json"
         },
         {
             "rel": "search",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/search.json",
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/search.json",
             "method": "GET"
         },
         {
             "rel": "search",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/search.json",
+            "href": "https://dev.eodatahub.org.uk/catalogue/element84-data/search.json",
             "method": "POST"
         },
         {
             "rel": "aggregate",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/aggregate.json",
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/aggregate.json",
             "method": "GET"
         },
         {
             "rel": "aggregations",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/aggregations.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/aggregations.json"
         },
         {
             "rel": "service-desc",
             "type": "application/vnd.oai.openapi",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/api.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/api.json"
         },
         {
             "rel": "service-doc",
             "type": "text/html",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/api.html.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/api.html.json"
         },
         {
             "rel": "http:/www.opengis.net/def/rel/ogc/1.0/queryables",
             "type": "application/schema+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/queryables.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/queryables.json"
         },
         {
             "rel": "server",
@@ -71,42 +71,42 @@
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-30.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-30.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/naip.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l2a.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l2a.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-l1c.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/cop-dem-glo-90.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/cop-dem-glo-90.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/landsat-c2-l2.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/landsat-c2-l2.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-1-grd.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd.json"
         },
         {
             "rel": "child",
             "type": "application/geo+json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/sentinel-2-c1-l2a.json"
+            "href":"https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-c1-l2a.json"
         }
     ],
     "conformsTo": [

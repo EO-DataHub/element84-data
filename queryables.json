@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/queryables.json",
+    "$id": "/catalogue/element84-data/queryables.json",
     "type": "object",
     "title": "Queryables for Earth Search by Element 84",
     "properties": {},

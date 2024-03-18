@@ -42,17 +42,17 @@
         {
             "rel": "root",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/catalog.json"
+            "href": "/catalogue/element84-data/catalog.json"
         },
         {
             "rel": "self",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip/aggregations.json"
+            "href": "/catalogue/element84-data/collections/naip/aggregations.json"
         },
         {
             "rel": "collection",
             "type": "application/json",
-            "href": "https://d3ptwct64z2cyj.cloudfront.net/element84-data/collections/naip.json"
+            "href": "/catalogue/element84-data/collections/naip.json"
         }
     ]
 }
