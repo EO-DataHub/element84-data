@@ -1,0 +1,134 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "id": "Copernicus_DSM_COG_10_S89_00_W043_00_DEM",
+    "properties": {
+        "platform": "tandem-x",
+        "gsd": 30,
+        "proj:epsg": 4326,
+        "proj:transform": [
+            0.002777777777777778,
+            0,
+            -43.00138888888889,
+            0,
+            -0.0002777777777777778,
+            -87.99986111111112
+        ],
+        "proj:shape": [
+            3600,
+            360
+        ],
+        "proj:centroid": {
+            "lat": -88.5,
+            "lon": -42.5
+        },
+        "grid:code": "CDEM-S89W043",
+        "storage:platform": "AWS",
+        "storage:region": "eu-central-1",
+        "storage:requester_pays": false,
+        "earthsearch:payload_id": "cop-dem-glo/workflow-cop-dem-glo-to-stac/b01cba3ad7265f0200e206886a8dc5aa",
+        "datetime": "2021-04-22T00:00:00Z",
+        "processing:software": {
+            "cop-dem-glo-to-stac": "2023.03.28"
+        },
+        "created": "2023-03-28T15:22:59.245Z",
+        "updated": "2023-04-20T18:13:58.926Z"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -42.00138888888889,
+                    -88.99986111111112
+                ],
+                [
+                    -42.00138888888889,
+                    -87.99986111111112
+                ],
+                [
+                    -43.00138888888889,
+                    -87.99986111111112
+                ],
+                [
+                    -43.00138888888889,
+                    -88.99986111111112
+                ],
+                [
+                    -42.00138888888889,
+                    -88.99986111111112
+                ]
+            ]
+        ]
+    },
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/geo+json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/cop-dem-glo-30/items/Copernicus_DSM_COG_10_S89_00_W043_00_DEM.json"
+        },
+        {
+            "rel": "canonical",
+            "href": "s3:/earthsearch-data/cop-dem-glo-30/Copernicus_DSM_COG_10_S89_00_W043_00_DEM/Copernicus_DSM_COG_10_S89_00_W043_00_DEM.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "handbook",
+            "href": "https://object.cloud.sdsc.edu/v1/AUTH_opentopography/www/metadata/Copernicus_metadata.pdf",
+            "type": "application/pdf",
+            "title": "Copernicus DEM User handbook",
+            "description": "Also includes data usage information"
+        },
+        {
+            "rel": "parent",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/cop-dem-glo-30.json"
+        },
+        {
+            "rel": "collection",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/cop-dem-glo-30.json"
+        },
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/catalog.json"
+        },
+        {
+            "rel": "thumbnail",
+            "href": "https://earth-search.aws.element84.com/v1/collections/cop-dem-glo-30/items/Copernicus_DSM_COG_10_S89_00_W043_00_DEM/thumbnail"
+        }
+    ],
+    "assets": {
+        "data": {
+            "href": "s3:/copernicus-dem-30m/Copernicus_DSM_COG_10_S89_00_W043_00_DEM/Copernicus_DSM_COG_10_S89_00_W043_00_DEM.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "title": "Data",
+            "raster:bands": [
+                {
+                    "sampling": "point",
+                    "data_type": "float32",
+                    "spatial_resolution": 30,
+                    "unit": "meter"
+                }
+            ],
+            "roles": [
+                "data"
+            ]
+        }
+    },
+    "bbox": [
+        -43.00138888888889,
+        -88.99986111111112,
+        -42.00138888888889,
+        -87.99986111111112
+    ],
+    "stac_extensions": [
+        "https://stac-extensions.github.io/storage/v1.0.0/schema.json",
+        "https://stac-extensions.github.io/processing/v1.1.0/schema.json",
+        "https://stac-extensions.github.io/raster/v1.1.0/schema.json",
+        "https://stac-extensions.github.io/grid/v1.1.0/schema.json",
+        "https://stac-extensions.github.io/projection/v1.1.0/schema.json"
+    ],
+    "collection": "cop-dem-glo-30"
+}
