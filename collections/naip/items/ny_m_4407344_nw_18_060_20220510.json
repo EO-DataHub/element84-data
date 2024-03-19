@@ -1,0 +1,183 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "id": "ny_m_4407344_nw_18_060_20220510",
+    "properties": {
+        "naip:state": "ny",
+        "naip:year": "2021",
+        "gsd": 0.6,
+        "proj:epsg": 26918,
+        "proj:shape": [
+            12622,
+            9566
+        ],
+        "proj:bbox": [
+            609243.6,
+            4907256.6,
+            614983.2,
+            4914829.8
+        ],
+        "proj:transform": [
+            0.6,
+            0,
+            609243.6,
+            0,
+            -0.6,
+            4914829.8,
+            0,
+            0,
+            1
+        ],
+        "proj:centroid": {
+            "lat": 44.344,
+            "lon": -73.59348
+        },
+        "grid:code": "DOQQ-4407344NW",
+        "storage:platform": "AWS",
+        "storage:region": "us-west-2",
+        "storage:requester_pays": true,
+        "earthsearch:payload_id": "roda-naip/workflow-naip-to-stac/38edf61204b4dc68547676e5f0994939",
+        "datetime": "2022-05-10T16:00:00Z",
+        "processing:software": {
+            "naip-to-stac": "2023.05.22"
+        },
+        "created": "2023-05-22T19:05:12.413Z",
+        "updated": "2023-05-24T16:16:00.611Z"
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -73.55832,
+                    44.309471
+                ],
+                [
+                    -73.556649,
+                    44.37763
+                ],
+                [
+                    -73.628675,
+                    44.378518
+                ],
+                [
+                    -73.630264,
+                    44.310356
+                ],
+                [
+                    -73.55832,
+                    44.309471
+                ]
+            ]
+        ]
+    },
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/geo+json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/naip/items/ny_m_4407344_nw_18_060_20220510.json"
+        },
+        {
+            "rel": "canonical",
+            "href": "s3:/earthsearch-data/naip/ny/2021/ny_m_4407344_nw_18_060_20220510/ny_m_4407344_nw_18_060_20220510.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/naip.json"
+        },
+        {
+            "rel": "collection",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/collections/naip.json"
+        },
+        {
+            "rel": "root",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/catalog.json"
+        },
+        {
+            "rel": "thumbnail",
+            "href": "https://earth-search.aws.element84.com/v1/collections/naip/items/ny_m_4407344_nw_18_060_20220510/thumbnail"
+        }
+    ],
+    "assets": {
+        "image": {
+            "href": "s3:/naip-analytic/ny/2021/60cm/rgbir_cog/44073/m_4407344_nw_18_060_20220510.tif",
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+            "title": "RGBIR COG tile",
+            "eo:bands": [
+                {
+                    "name": "Red",
+                    "common_name": "red"
+                },
+                {
+                    "name": "Green",
+                    "common_name": "green"
+                },
+                {
+                    "name": "Blue",
+                    "common_name": "blue"
+                },
+                {
+                    "name": "NIR",
+                    "common_name": "nir",
+                    "description": "near-infrared"
+                }
+            ],
+            "raster:bands": [
+                {
+                    "nodata": 0,
+                    "data_type": "uint8",
+                    "spatial_resolution": 0.6,
+                    "unit": "none"
+                },
+                {
+                    "nodata": 0,
+                    "data_type": "uint8",
+                    "spatial_resolution": 0.6,
+                    "unit": "none"
+                },
+                {
+                    "nodata": 0,
+                    "data_type": "uint8",
+                    "spatial_resolution": 0.6,
+                    "unit": "none"
+                },
+                {
+                    "nodata": 0,
+                    "data_type": "uint8",
+                    "spatial_resolution": 0.6,
+                    "unit": "none"
+                }
+            ],
+            "roles": [
+                "data"
+            ]
+        },
+        "metadata": {
+            "href": "s3:/naip-analytic/ny/2021/60cm/fgdc/44073/m_4407344_nw_18_060_20220510_20220602.xml",
+            "type": "application/xml",
+            "title": "FGDC Metadata",
+            "roles": [
+                "metadata"
+            ]
+        }
+    },
+    "bbox": [
+        -73.630264,
+        44.309471,
+        -73.556649,
+        44.378518
+    ],
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json",
+        "https://stac-extensions.github.io/grid/v1.0.0/schema.json",
+        "https://stac-extensions.github.io/processing/v1.1.0/schema.json",
+        "https://stac-extensions.github.io/storage/v1.0.0/schema.json",
+        "https://stac-extensions.github.io/projection/v1.0.0/schema.json",
+        "https://stac-extensions.github.io/raster/v1.1.0/schema.json"
+    ],
+    "collection": "naip"
+}
