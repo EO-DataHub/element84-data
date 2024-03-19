@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-1-grd/queryables.json",
+    "type": "object",
+    "title": "Queryables for Collection sentinel-1-grd",
+    "properties": {
+        "sar:polarizations": {
+            "$ref": "https://stac-extensions.github.io/sar/v1.0.0/schema.json#/definitions/fields/properties/sar:polarizations"
+        }
+    },
+    "additionalProperties": true
+}

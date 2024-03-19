@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://dev.eodatahub.org.uk/catalogue/element84-data/collections/sentinel-2-l1c/queryables.json",
+    "type": "object",
+    "title": "Queryables for Collection sentinel-2-l1c",
+    "properties": {
+        "eo:cloud_cover": {
+            "$ref": "https://stac-extensions.github.io/eo/v1.0.0/schema.json#/definitions/fields/properties/eo:cloud_cover"
+        }
+    },
+    "additionalProperties": true
+}
