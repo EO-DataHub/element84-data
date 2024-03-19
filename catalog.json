@@ -11,9 +11,14 @@
             "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/catalog.json"
         },
         {
+            "rel": "parent",
+            "type": "application/json",
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/catalog.json"
+        },
+        {
             "rel": "root",
             "type": "application/json",
-            "href": "https://dev.eodatahub.org.uk/catalogue-data/element84-data/catalog.json"
+            "href": "https://dev.eodatahub.org.uk/catalogue-data/catalog.json"
         },
         {
             "rel": "conformance",
